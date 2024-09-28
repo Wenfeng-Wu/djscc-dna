@@ -5,6 +5,7 @@ Wenfeng Wu; Luping Xiang; Qiang Liu; Kun Yang
 
 ## Paper address
 https://arxiv.org/pdf/2311.01122
+
 https://ieeexplore.ieee.org/document/10314138
 
 ## Abstract
@@ -16,21 +17,35 @@ In the current era, DeoxyriboNucleic Acid (DNA) based data storage emerges as an
 ## File
 
 DJSCC_DNA.py and DJSCC_DNA_multi.py: The structure of neural network
+
 train.py, train_multi.py and train_nomyloss.py: Neural networks are trained in different ways
+
 train.py, train_multi.py: Neural networks are tested in different ways
+
 functions.py: some fuctions
+
 figures_xxx.py, performance_xxx.py: Drawing codes. In different parameter Settings, test separately and retain data
+
 Other code files: Pictures, functions, program examples
 
 
 ## Citation
 @ARTICLE{10314138,
+
   author={Wu, Wenfeng and Xiang, Luping and Liu, Qiang and Yang, Kun},
+  
   journal={IEEE Transactions on Molecular, Biological, and Multi-Scale Communications}, 
+  
   title={Deep Joint Source-Channel Coding for DNA Image Storage: A Novel Approach With Enhanced Error Resilience and Biological Constraint Optimization}, 
+  
   year={2023},
+  
   volume={9},
+  
   number={4},
+  
   pages={461-471},
+  
   keywords={DNA;Image coding;Encoding;Decoding;Biological information theory;Neural networks;Deep learning;DNA storage;deep learning;joint source-channel coding;biological constraints},
+  
   doi={10.1109/TMBMC.2023.3331579}}
