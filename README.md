@@ -31,21 +31,12 @@ Other code files: Pictures, functions, program examples
 
 ## Citation
 @ARTICLE{10314138,
-
   author={Wu, Wenfeng and Xiang, Luping and Liu, Qiang and Yang, Kun},
-  
   journal={IEEE Transactions on Molecular, Biological, and Multi-Scale Communications}, 
-  
   title={Deep Joint Source-Channel Coding for DNA Image Storage: A Novel Approach With Enhanced Error Resilience and Biological Constraint Optimization}, 
-  
   year={2023},
-  
   volume={9},
-  
   number={4},
-  
   pages={461-471},
-  
   keywords={DNA;Image coding;Encoding;Decoding;Biological information theory;Neural networks;Deep learning;DNA storage;deep learning;joint source-channel coding;biological constraints},
-  
   doi={10.1109/TMBMC.2023.3331579}}
