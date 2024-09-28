@@ -15,6 +15,12 @@ In the current era, DeoxyriboNucleic Acid (DNA) based data storage emerges as an
 
 ## File
 
+DJSCC_DNA.py and DJSCC_DNA_multi.py: The structure of neural network
+train.py, train_multi.py and train_nomyloss.py: Neural networks are trained in different ways
+train.py, train_multi.py: Neural networks are tested in different ways
+functions.py: some fuctions
+figures_xxx.py, performance_xxx.py: Drawing codes. In different parameter Settings, test separately and retain data
+Other code files: Pictures, functions, program examples
 
 
 ## Citation
